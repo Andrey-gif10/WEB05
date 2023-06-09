@@ -1,0 +1,26 @@
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.main {
+    text-align: center;
+}
+
+.button {
+    margin: 50px auto 0;
+    padding: 21px 0 21px 0;
+    font-size: 40px;
+    font-weight: 900px;
+    color: green;
+    background-color: black;
+    width: 350px;
+}
+
+img {
+    width: 100%;
+}
+
+.monster {
+    background-color: gray;
+}
